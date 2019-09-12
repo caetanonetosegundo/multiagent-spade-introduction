@@ -1,4 +1,5 @@
 from spade import agent
+
 import config.jids as jid
 
 
